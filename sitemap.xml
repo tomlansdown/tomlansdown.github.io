@@ -5,12 +5,8 @@
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/major-project.html</loc>
-    <lastmod>2019-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/index.html"/>
   </url>
   <url>
     <loc>http://tomlansdown.com/national-trust.html</loc>
@@ -37,6 +33,18 @@
     </image:image>
   </url>
   <url>
+    <loc>http://tomlansdown.com/alphabet-aerobics.html</loc>
+    <lastmod>2019-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173107.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://tomlansdown.com/misc.-animation.html</loc>
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,33 +61,16 @@
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/work.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/work.html"/>
   </url>
   <url>
     <loc>http://tomlansdown.com/about.html</loc>
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/monir.html</loc>
-    <lastmod>2019-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_8.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/home.html</loc>
-    <lastmod>2019-03-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/pasted-svg-255974x355.svg</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/about.html"/>
   </url>
   <url>
     <loc>http://tomlansdown.com/showreel.html</loc>
@@ -94,6 +85,17 @@
     </image:image>
   </url>
   <url>
+    <loc>http://tomlansdown.com/home.html</loc>
+    <lastmod>2019-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/home.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/home.html"/>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/pasted-svg-255974x355.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://tomlansdown.com/project-mars.html</loc>
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +106,12 @@
     <image:image>
       <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20171342.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/major-project.html</loc>
+    <lastmod>2019-03-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/penguin.html</loc>
@@ -136,15 +144,15 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tomlansdown.com/alphabet-aerobics.html</loc>
+    <loc>http://tomlansdown.com/monir.html</loc>
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173022.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/monir_9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173107.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/monir_8.jpg</image:loc>
     </image:image>
   </url>
   <url>
