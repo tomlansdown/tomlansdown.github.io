@@ -1,4 +1,41 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552159429939">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552175195611">
+  <folder name="phone">
+    <folder name="css">
+      <file name="home.css" crc="65000477" ref="phone>home"/>
+      <file name="about.css" crc="3818290992" ref="phone>about"/>
+      <file name="work.css" crc="475079043" ref="phone>work"/>
+      <file name="index.css" crc="4075858725" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="446947602" seo="true" mt="1552173264711" redirect="true"/>
+    <file name="home.html" crc="4033233701" seo="true" mt="1552175158620" redirect="true"/>
+    <file name="about.html" crc="61559311" seo="true" mt="1552174213468" redirect="true"/>
+    <file name="work.html" crc="505252040" seo="true" mt="1552175080111" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="145273666" ref="index"/>
+    <file name="master_a-master.css" crc="3791569573" ref="art-fund:wage-infographic:city-branding:work:showreel:misc.-film:about:home:alphabet-aerobics:cards:project-mars:monir:penguin:misc.-posters:major-project:portfolio:3d-books:misc.-animation:national-trust"/>
+    <file name="art-fund.css" crc="4232899503" ref="art-fund"/>
+    <file name="wage-infographic.css" crc="535278326" ref="wage-infographic"/>
+    <file name="city-branding.css" crc="3794940247" ref="city-branding"/>
+    <file name="work.css" crc="4029037896" ref="work"/>
+    <file name="showreel.css" crc="3944256304" ref="showreel"/>
+    <file name="misc_-film.css" crc="466994408" ref="misc.-film"/>
+    <file name="about.css" crc="4009412356" ref="about"/>
+    <file name="home.css" crc="4035482378" ref="home"/>
+    <file name="alphabet-aerobics.css" crc="511538866" ref="alphabet-aerobics"/>
+    <file name="cards.css" crc="305094049" ref="cards"/>
+    <file name="project-mars.css" crc="4120831264" ref="project-mars"/>
+    <file name="monir.css" crc="302422528" ref="monir"/>
+    <file name="penguin.css" crc="309140215" ref="penguin"/>
+    <file name="misc_-posters.css" crc="4081110428" ref="misc.-posters"/>
+    <file name="major-project.css" crc="3892131042" ref="major-project"/>
+    <file name="portfolio.css" crc="3798164393" ref="portfolio"/>
+    <file name="index.css" crc="3949338579" ref="index"/>
+    <file name="3d-books.css" crc="196512148" ref="3d-books"/>
+    <file name="misc_-animation.css" crc="3791005220" ref="misc.-animation"/>
+    <file name="national-trust.css" crc="517421630" ref="national-trust"/>
+  </folder>
   <folder name="assets">
     <file name="monir.pdf" crc="3971441124" seo="true" mt="1552153301000"/>
     <file name="penguin-student-award.pdf" crc="4230395268" seo="true" mt="1545215251000"/>
@@ -6,17 +43,26 @@
     <file name="adelaide.pdf" crc="4061042264" seo="true" mt="1524836808000"/>
     <file name="art-fund.pdf" crc="4238772500" seo="true" mt="1521309923000"/>
   </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+    <file name="museutils.js" crc="340535759" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+    <file name="museconfig.js" crc="310584261" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+    <file name="jquery.watch.js" crc="51536988" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="tablet>index:tablet>home:tablet>about:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about"/>
+    <file name="require.js" crc="7928878" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
+  </folder>
   <folder name="images">
-    <file name="pasted-svg-255974x355.svg" crc="4044461284" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-    </file>
-    <file name="pasted svg 255974x355_poster_.png" crc="114120262" ref="home"/>
     <file name="screenshot 2019-03-09 at 170455-crop-u1943.jpg" crc="3844849118" seo="true" ref="showreel">
       <caption webpage="showreel" alt=""/>
     </file>
     <file name="screenshot 2019-03-09 at 170518-crop-u4891.jpg" crc="337614657" seo="true" ref="showreel">
       <caption webpage="showreel" alt=""/>
     </file>
+    <file name="pasted-svg-255974x355.svg" crc="4044461284" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="pasted svg 255974x355_poster_.png" crc="114120262" ref="home"/>
     <file name="screenshot 2019-03-09 at 171316.jpg" crc="3992915738" seo="true" ref="project-mars">
       <caption webpage="project-mars" alt=""/>
     </file>
@@ -78,58 +124,37 @@
       <caption webpage="city-branding" alt=""/>
     </file>
   </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3791569573" ref="work:home:monir:about:wage-infographic:project-mars:3d-books:major-project:cards:penguin:art-fund:misc.-animation:alphabet-aerobics:showreel:misc.-film:city-branding:misc.-posters:national-trust:portfolio"/>
-    <file name="master_b-master.css" crc="337719007" ref="index"/>
-    <file name="work.css" crc="254957798" ref="work"/>
-    <file name="home.css" crc="3891793670" ref="home"/>
-    <file name="monir.css" crc="175099940" ref="monir"/>
-    <file name="index.css" crc="3949338579" ref="index"/>
-    <file name="about.css" crc="3774081217" ref="about"/>
-    <file name="wage-infographic.css" crc="414815360" ref="wage-infographic"/>
-    <file name="project-mars.css" crc="192535274" ref="project-mars"/>
-    <file name="3d-books.css" crc="9706741" ref="3d-books"/>
-    <file name="major-project.css" crc="4272332995" ref="major-project"/>
-    <file name="cards.css" crc="4059758056" ref="cards"/>
-    <file name="penguin.css" crc="22620515" ref="penguin"/>
-    <file name="art-fund.css" crc="4137788608" ref="art-fund"/>
-    <file name="misc_-animation.css" crc="371765716" ref="misc.-animation"/>
-    <file name="alphabet-aerobics.css" crc="3881935031" ref="alphabet-aerobics"/>
-    <file name="showreel.css" crc="4249844708" ref="showreel"/>
-    <file name="misc_-film.css" crc="4174502348" ref="misc.-film"/>
-    <file name="city-branding.css" crc="4152917762" ref="city-branding"/>
-    <file name="misc_-posters.css" crc="77486700" ref="misc.-posters"/>
-    <file name="national-trust.css" crc="3769857973" ref="national-trust"/>
-    <file name="portfolio.css" crc="3967483788" ref="portfolio"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="163698601" ref="tablet>work:tablet>about:tablet>home"/>
+      <file name="work.css" crc="4154491135" ref="tablet>work"/>
+      <file name="about.css" crc="3805437332" ref="tablet>about"/>
+      <file name="home.css" crc="241802556" ref="tablet>home"/>
+      <file name="index.css" crc="252119012" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="216434364" seo="true" mt="1552172524068" redirect="true"/>
+    <file name="home.html" crc="3786968605" seo="true" mt="1552172524144" redirect="true"/>
+    <file name="about.html" crc="274829053" seo="true" mt="1552172524240" redirect="true"/>
+    <file name="work.html" crc="4252791705" seo="true" mt="1552172524320" redirect="true"/>
   </folder>
-  <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="museutils.js" crc="340535759" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="whatinput.js" crc="86476730" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="museconfig.js" crc="310584261" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="require.js" crc="7928878" ref="index:work:about:monir:home:showreel:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-  </folder>
-  <file name="index.html" crc="3846222705" seo="true" mt="1552159425180" redirect="true"/>
-  <file name="work.html" crc="4203418224" seo="true" mt="1552150871176" redirect="true"/>
-  <file name="about.html" crc="215708841" seo="true" mt="1552142097272" redirect="true"/>
-  <file name="monir.html" crc="4092161730" seo="true" mt="1552153395279" redirect="true"/>
-  <file name="home.html" crc="3977493909" seo="true" mt="1552146769960" redirect="true"/>
-  <file name="showreel.html" crc="3977362928" seo="true" mt="1552156411920" redirect="true"/>
-  <file name="project-mars.html" crc="256365885" seo="true" mt="1552151695139" redirect="true"/>
-  <file name="major-project.html" crc="401291450" seo="true" mt="1552151761739" redirect="true"/>
-  <file name="national-trust.html" crc="4241046077" seo="true" mt="1552152140542" redirect="true"/>
-  <file name="wage-infographic.html" crc="3975187771" seo="true" mt="1552152475931" redirect="true"/>
-  <file name="alphabet-aerobics.html" crc="4113504545" seo="true" mt="1552152887165" redirect="true"/>
-  <file name="cards.html" crc="3769224066" seo="true" mt="1552153494958" redirect="true"/>
-  <file name="penguin.html" crc="4076294112" seo="true" mt="1552154604470" redirect="true"/>
-  <file name="3d-books.html" crc="288973309" seo="true" mt="1552155165907" redirect="true"/>
-  <file name="art-fund.html" crc="4174196659" seo="true" mt="1552156075404" redirect="true"/>
-  <file name="city-branding.html" crc="3819285535" seo="true" mt="1552155812977" redirect="true"/>
-  <file name="misc.-film.html" crc="4142674735" seo="true" mt="1552158273284" redirect="true"/>
-  <file name="misc.-posters.html" crc="4009920858" seo="true" mt="1552158290156" redirect="true"/>
-  <file name="misc.-animation.html" crc="3833716391" seo="true" mt="1552158307216" redirect="true"/>
-  <file name="portfolio.html" crc="4122053787" seo="true" mt="1552155317788" redirect="true"/>
+  <file name="index.html" crc="4086960297" seo="true" mt="1552172524407" redirect="true"/>
+  <file name="work.html" crc="4148429670" seo="true" mt="1552172524407" redirect="true"/>
+  <file name="about.html" crc="4221191199" seo="true" mt="1552172524407" redirect="true"/>
+  <file name="showreel.html" crc="4151859627" seo="true" mt="1552171499744" redirect="true"/>
+  <file name="home.html" crc="501342975" seo="true" mt="1552172524407" redirect="true"/>
+  <file name="project-mars.html" crc="154554363" seo="true" mt="1552171500270" redirect="true"/>
+  <file name="major-project.html" crc="180280022" seo="true" mt="1552171500405" redirect="true"/>
+  <file name="national-trust.html" crc="4245120312" seo="true" mt="1552171500548" redirect="true"/>
+  <file name="wage-infographic.html" crc="216837104" seo="true" mt="1552171500834" redirect="true"/>
+  <file name="alphabet-aerobics.html" crc="3923364759" seo="true" mt="1552171500937" redirect="true"/>
+  <file name="monir.html" crc="112720847" seo="true" mt="1552171501220" redirect="true"/>
+  <file name="cards.html" crc="4018213130" seo="true" mt="1552171501723" redirect="true"/>
+  <file name="penguin.html" crc="4227556349" seo="true" mt="1552171501903" redirect="true"/>
+  <file name="3d-books.html" crc="410044472" seo="true" mt="1552171502182" redirect="true"/>
+  <file name="art-fund.html" crc="4084231513" seo="true" mt="1552171502582" redirect="true"/>
+  <file name="city-branding.html" crc="389013317" seo="true" mt="1552171502867" redirect="true"/>
+  <file name="misc.-film.html" crc="189972750" seo="true" mt="1552171503497" redirect="true"/>
+  <file name="misc.-posters.html" crc="3785877090" seo="true" mt="1552171504082" redirect="true"/>
+  <file name="misc.-animation.html" crc="3949922485" seo="true" mt="1552171504559" redirect="true"/>
+  <file name="portfolio.html" crc="3931113520" seo="true" mt="1552171503267" redirect="true"/>
 </manifest>
