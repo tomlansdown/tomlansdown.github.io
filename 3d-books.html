@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3791569573"/>
-  <link rel="stylesheet" type="text/css" href="css/3d-books.css?crc=9706741" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/3d-books.css?crc=196512148" id="pagesheet"/>
     <!--HTML Widget code-->
   
 		<style>
@@ -177,7 +177,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u6689').registerPositionScrollEffect([{"speed":[1,-3],"in":[-Infinity,-111.36]},{"speed":[0,0],"in":[-111.36,Infinity]}]);/* scroll effect */
+$('#u6689').registerPositionScrollEffect([{"in":[-Infinity,-111.36],"speed":[1,-3]},{"in":[-111.36,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
