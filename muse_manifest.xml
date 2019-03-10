@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552227219157">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552227368573">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="3760982222" ref="phone>home"/>
       <file name="about.css" crc="371975364" ref="phone>about"/>
-      <file name="work.css" crc="3982725481" ref="phone>work"/>
+      <file name="work.css" crc="16003288" ref="phone>work"/>
       <file name="index.css" crc="3771127553" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3940436242" seo="true" mt="1552225880539" redirect="true"/>
     <file name="home.html" crc="3776400946" seo="true" mt="1552226071118" redirect="true"/>
     <file name="about.html" crc="128523197" seo="true" mt="1552226146661" redirect="true"/>
-    <file name="work.html" crc="369864263" seo="true" mt="1552227151757" redirect="true"/>
+    <file name="work.html" crc="477399934" seo="true" mt="1552227313312" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -127,7 +127,7 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="163698601" ref="tablet>work:tablet>about:tablet>home"/>
-      <file name="work.css" crc="4060201744" ref="tablet>work"/>
+      <file name="work.css" crc="243456941" ref="tablet>work"/>
       <file name="about.css" crc="4163385925" ref="tablet>about"/>
       <file name="home.css" crc="3787139750" ref="tablet>home"/>
       <file name="index.css" crc="3808897441" ref="tablet>index"/>
@@ -135,7 +135,7 @@
     <file name="index.html" crc="3883696214" seo="true" mt="1552225863535" redirect="true"/>
     <file name="home.html" crc="123956703" seo="true" mt="1552226097061" redirect="true"/>
     <file name="about.html" crc="4019896577" seo="true" mt="1552226131701" redirect="true"/>
-    <file name="work.html" crc="4026541865" seo="true" mt="1552227171493" redirect="true"/>
+    <file name="work.html" crc="452690708" seo="true" mt="1552227351885" redirect="true"/>
   </folder>
   <file name="index.html" crc="97793220" seo="true" mt="1552178224352" redirect="true"/>
   <file name="work.html" crc="4148429670" seo="true" mt="1552172524407" redirect="true"/>
