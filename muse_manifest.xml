@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552177659894">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552178430486">
   <folder name="phone">
     <folder name="css">
       <file name="home.css" crc="4102568376" ref="phone>home"/>
-      <file name="about.css" crc="3791790232" ref="phone>about"/>
-      <file name="work.css" crc="4032967304" ref="phone>work"/>
+      <file name="about.css" crc="168837120" ref="phone>about"/>
+      <file name="work.css" crc="4083120329" ref="phone>work"/>
       <file name="index.css" crc="283658099" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="399995501" seo="true" mt="1552177258694" redirect="true"/>
-    <file name="home.html" crc="454368908" seo="true" mt="1552177604306" redirect="true"/>
-    <file name="about.html" crc="4089728344" seo="true" mt="1552177228337" redirect="true"/>
-    <file name="work.html" crc="3880384478" seo="true" mt="1552177537671" redirect="true"/>
+    <file name="home.html" crc="156826021" seo="true" mt="1552178126587" redirect="true"/>
+    <file name="about.html" crc="4196186560" seo="true" mt="1552178358320" redirect="true"/>
+    <file name="work.html" crc="4155444423" seo="true" mt="1552178348162" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -49,7 +49,7 @@
     <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
     <file name="museconfig.js" crc="310584261" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
     <file name="jquery.watch.js" crc="51536988" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="tablet>index:tablet>home:tablet>about:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>about"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="tablet>index:tablet>about:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>about"/>
     <file name="require.js" crc="7928878" ref="tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio:phone>index:phone>home:phone>about:phone>work"/>
   </folder>
   <folder name="images">
@@ -129,15 +129,15 @@
       <file name="master_a-master.css" crc="163698601" ref="tablet>work:tablet>about:tablet>home"/>
       <file name="work.css" crc="3944069737" ref="tablet>work"/>
       <file name="about.css" crc="123286256" ref="tablet>about"/>
-      <file name="home.css" crc="340832358" ref="tablet>home"/>
-      <file name="index.css" crc="3987052250" ref="tablet>index"/>
+      <file name="home.css" crc="445413700" ref="tablet>home"/>
+      <file name="index.css" crc="3989485703" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3852073589" seo="true" mt="1552177317372" redirect="true"/>
-    <file name="home.html" crc="161722248" seo="true" mt="1552177563481" redirect="true"/>
+    <file name="index.html" crc="4075557437" seo="true" mt="1552178069558" redirect="true"/>
+    <file name="home.html" crc="106943858" seo="true" mt="1552178133254" redirect="true"/>
     <file name="about.html" crc="4031359897" seo="true" mt="1552177569847" redirect="true"/>
     <file name="work.html" crc="3767941423" seo="true" mt="1552177575020" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4086960297" seo="true" mt="1552172524407" redirect="true"/>
+  <file name="index.html" crc="97793220" seo="true" mt="1552178224352" redirect="true"/>
   <file name="work.html" crc="4148429670" seo="true" mt="1552172524407" redirect="true"/>
   <file name="about.html" crc="4221191199" seo="true" mt="1552172524407" redirect="true"/>
   <file name="showreel.html" crc="4151859627" seo="true" mt="1552171499744" redirect="true"/>
@@ -147,7 +147,7 @@
   <file name="national-trust.html" crc="4245120312" seo="true" mt="1552171500548" redirect="true"/>
   <file name="wage-infographic.html" crc="216837104" seo="true" mt="1552171500834" redirect="true"/>
   <file name="alphabet-aerobics.html" crc="3923364759" seo="true" mt="1552171500937" redirect="true"/>
-  <file name="monir.html" crc="112720847" seo="true" mt="1552171501220" redirect="true"/>
+  <file name="monir.html" crc="373547174" seo="true" mt="1552178419676" redirect="true"/>
   <file name="cards.html" crc="4018213130" seo="true" mt="1552171501723" redirect="true"/>
   <file name="penguin.html" crc="4227556349" seo="true" mt="1552171501903" redirect="true"/>
   <file name="3d-books.html" crc="410044472" seo="true" mt="1552171502182" redirect="true"/>
