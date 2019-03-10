@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552178430486">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1552226919777">
   <folder name="phone">
     <folder name="css">
-      <file name="home.css" crc="4102568376" ref="phone>home"/>
-      <file name="about.css" crc="168837120" ref="phone>about"/>
-      <file name="work.css" crc="4083120329" ref="phone>work"/>
-      <file name="index.css" crc="283658099" ref="phone>index"/>
+      <file name="home.css" crc="3760982222" ref="phone>home"/>
+      <file name="about.css" crc="371975364" ref="phone>about"/>
+      <file name="work.css" crc="33464852" ref="phone>work"/>
+      <file name="index.css" crc="3771127553" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="399995501" seo="true" mt="1552177258694" redirect="true"/>
-    <file name="home.html" crc="156826021" seo="true" mt="1552178126587" redirect="true"/>
-    <file name="about.html" crc="4196186560" seo="true" mt="1552178358320" redirect="true"/>
-    <file name="work.html" crc="4155444423" seo="true" mt="1552178348162" redirect="true"/>
+    <file name="index.html" crc="3940436242" seo="true" mt="1552225880539" redirect="true"/>
+    <file name="home.html" crc="3776400946" seo="true" mt="1552226071118" redirect="true"/>
+    <file name="about.html" crc="128523197" seo="true" mt="1552226146661" redirect="true"/>
+    <file name="work.html" crc="4062294197" seo="true" mt="1552226739444" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -24,7 +24,7 @@
     <file name="about.css" crc="4009412356" ref="about"/>
     <file name="home.css" crc="4035482378" ref="home"/>
     <file name="alphabet-aerobics.css" crc="511538866" ref="alphabet-aerobics"/>
-    <file name="cards.css" crc="305094049" ref="cards"/>
+    <file name="cards.css" crc="296809628" ref="cards"/>
     <file name="project-mars.css" crc="4120831264" ref="project-mars"/>
     <file name="monir.css" crc="302422528" ref="monir"/>
     <file name="penguin.css" crc="309140215" ref="penguin"/>
@@ -127,15 +127,15 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="163698601" ref="tablet>work:tablet>about:tablet>home"/>
-      <file name="work.css" crc="3944069737" ref="tablet>work"/>
-      <file name="about.css" crc="123286256" ref="tablet>about"/>
-      <file name="home.css" crc="445413700" ref="tablet>home"/>
-      <file name="index.css" crc="3989485703" ref="tablet>index"/>
+      <file name="work.css" crc="75905081" ref="tablet>work"/>
+      <file name="about.css" crc="4163385925" ref="tablet>about"/>
+      <file name="home.css" crc="3787139750" ref="tablet>home"/>
+      <file name="index.css" crc="3808897441" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4075557437" seo="true" mt="1552178069558" redirect="true"/>
-    <file name="home.html" crc="106943858" seo="true" mt="1552178133254" redirect="true"/>
-    <file name="about.html" crc="4031359897" seo="true" mt="1552177569847" redirect="true"/>
-    <file name="work.html" crc="3767941423" seo="true" mt="1552177575020" redirect="true"/>
+    <file name="index.html" crc="3883696214" seo="true" mt="1552225863535" redirect="true"/>
+    <file name="home.html" crc="123956703" seo="true" mt="1552226097061" redirect="true"/>
+    <file name="about.html" crc="4019896577" seo="true" mt="1552226131701" redirect="true"/>
+    <file name="work.html" crc="414917916" seo="true" mt="1552226547208" redirect="true"/>
   </folder>
   <file name="index.html" crc="97793220" seo="true" mt="1552178224352" redirect="true"/>
   <file name="work.html" crc="4148429670" seo="true" mt="1552172524407" redirect="true"/>
@@ -148,7 +148,7 @@
   <file name="wage-infographic.html" crc="216837104" seo="true" mt="1552171500834" redirect="true"/>
   <file name="alphabet-aerobics.html" crc="3923364759" seo="true" mt="1552171500937" redirect="true"/>
   <file name="monir.html" crc="373547174" seo="true" mt="1552178419676" redirect="true"/>
-  <file name="cards.html" crc="4018213130" seo="true" mt="1552171501723" redirect="true"/>
+  <file name="cards.html" crc="203682645" seo="true" mt="1552226861860" redirect="true"/>
   <file name="penguin.html" crc="4227556349" seo="true" mt="1552171501903" redirect="true"/>
   <file name="3d-books.html" crc="410044472" seo="true" mt="1552171502182" redirect="true"/>
   <file name="art-fund.html" crc="4084231513" seo="true" mt="1552171502582" redirect="true"/>
