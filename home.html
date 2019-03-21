@@ -24,7 +24,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3791569573"/>
-  <link rel="stylesheet" type="text/css" href="css/home.css?crc=4249325107" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/home.css?crc=3850950472" id="pagesheet"/>
     <!--HTML Widget code-->
   
 		<style>
@@ -135,22 +135,15 @@ background: #035E7B;
      <div class="grpelem" id="u4614"><!-- content --></div>
     </div>
    </div>
-   <div class="clip_frame mse_pre_init" id="u5148" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=-1,M12=0,M21=0,M22=-1,SizingMethod='auto expand')" data-mu-ie-matrix-dx="0" data-mu-ie-matrix-dy="0"><!-- svg -->
+   <div class="clip_frame ose_pre_init mse_pre_init" id="u5148"><!-- svg -->
     <img class="svg" id="u5149" src="images/pasted-svg-255974x355.svg?crc=4044461284" width="66" height="105" alt="" data-mu-svgfallback="images/pasted%20svg%20255974x355_poster_.png?crc=114120262"/>
    </div>
    <div class="verticalspacer" data-offset-top="2422" data-content-above-spacer="2422" data-content-below-spacer="97"></div>
-   <div class="clearfix grpelem" id="pu4657"><!-- column -->
-    <div class="browser_width colelem" id="u4657-bw">
-     <div id="u4657"><!-- simple frame --></div>
-    </div>
-    <div class="clearfix colelem" id="pu4658-4"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u4658-4" href="https://www.behance.net/tomlansdown"><!-- content --><p>Behance</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u4659-4" href="mailto:tomlansdownuni@gmail.com"><!-- content --><p>Email</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u4660-4" href="https://www.linkedin.com/in/tom-lansdown-428256161/"><!-- content --><p>LinkedIn</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u4662-4" href="https://www.instagram.com/tomlansdown/"><!-- content --><p>Instagram</p></a>
-     <a class="nonblock nontext clearfix grpelem" id="u4661-4" href="https://vimeo.com/tomlansdown"><!-- content --><p>Vimeo</p></a>
-    </div>
-   </div>
+   <a class="nonblock nontext clearfix grpelem" id="u4658-4" href="https://www.behance.net/tomlansdown"><!-- content --><p>Behance</p></a>
+   <a class="nonblock nontext clearfix grpelem" id="u4659-4" href="mailto:tomlansdownuni@gmail.com"><!-- content --><p>Email</p></a>
+   <a class="nonblock nontext clearfix grpelem" id="u4660-4" href="https://www.linkedin.com/in/tom-lansdown-428256161/"><!-- content --><p>LinkedIn</p></a>
+   <a class="nonblock nontext clearfix grpelem" id="u4662-4" href="https://www.instagram.com/tomlansdown/"><!-- content --><p>Instagram</p></a>
+   <a class="nonblock nontext clearfix grpelem" id="u4661-4" href="https://vimeo.com/tomlansdown"><!-- content --><p>Vimeo</p></a>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
@@ -174,14 +167,13 @@ var muse_init=function(){require.config({baseUrl:""});require(["jquery","museuti
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
-Muse.Utils.resizeHeight('.browser_width');/* resize height */
-Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u4872-13').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-2,0]},{"in":[650,Infinity],"speed":[0,1]}]);/* scroll effect */
-$('#u4620-4').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-2,0]},{"in":[650,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u4872-13').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-3,0]},{"in":[650,Infinity],"speed":[0,1]}]);/* scroll effect */
+$('#u4620-4').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-3,0]},{"in":[650,Infinity],"speed":[0,1]}]);/* scroll effect */
 $('#u4799').registerPositionScrollEffect([{"in":[-Infinity,-111.36],"speed":[1,-3]},{"in":[-111.36,Infinity],"speed":[0,0]}]);/* scroll effect */
-$('#u5148').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1]},{"in":[0,Infinity],"speed":[-1,0]}]);/* scroll effect */
+$('#u5148').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,-2]},{"in":[0,Infinity],"speed":[0,-3]}]);/* scroll effect */
+$('#u5148').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":100,"fade":50},{"in":[0,0],"opacity":100},{"in":[0,Infinity],"opacity":0,"fade":310}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
