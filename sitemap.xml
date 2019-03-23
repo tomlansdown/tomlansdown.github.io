@@ -33,28 +33,34 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tomlansdown.com/alphabet-aerobics.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173022.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173107.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://tomlansdown.com/misc.-animation.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/misc.-posters.html</loc>
+    <lastmod>2019-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/portfolio.html</loc>
     <lastmod>2019-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/city-branding.html</loc>
+    <lastmod>2019-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20adelaide%20(1)_page_08.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20adelaide%20(1)_page_09.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tomlansdown.com/work.html</loc>
@@ -103,9 +109,63 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/major-project.html</loc>
+    <lastmod>2019-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/art-fund.html</loc>
     <lastmod>2019-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20ycn_page_09.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/bus.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/misc.-film.html</loc>
+    <lastmod>2019-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/alphabet-aerobics.html</loc>
+    <lastmod>2019-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173022.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/screenshot%202019-03-09%20at%20173107.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/monir.html</loc>
+    <lastmod>2019-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/monir_9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/monir_8.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/cards.html</loc>
+    <lastmod>2019-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/dsc_5660-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/dsc_5615-2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tomlansdown.com/penguin.html</loc>
@@ -126,48 +186,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tomlansdown.com/cards.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/portfolio.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/monir.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_8.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/city-branding.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20adelaide%20(1)_page_08.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20adelaide%20(1)_page_09.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/misc.-film.html</loc>
-    <lastmod>2019-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://tomlansdown.com/3d-books.html</loc>
     <lastmod>2019-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -180,20 +198,20 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tomlansdown.com/art-fund.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <loc>http://tomlansdown.com/assets/art-fund.pdf</loc>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/tom%20lansdown%20-%20ycn_page_09.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/bus.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://tomlansdown.com/assets/penguin-student-award.pdf</loc>
     <lastmod>2018-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/assets/prints.pdf</loc>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -204,20 +222,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tomlansdown.com/assets/portfolio.pdf</loc>
-    <lastmod>2019-03-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/assets/art-fund.pdf</loc>
-    <lastmod>2018-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://tomlansdown.com/assets/adelaide.pdf</loc>
     <lastmod>2018-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://tomlansdown.com/assets/portfolio.pdf</loc>
+    <lastmod>2019-03-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
