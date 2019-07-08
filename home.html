@@ -15,7 +15,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.scrolleffects.js", "home.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "home.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://tomlansdown.com/phone/home.html"/>
@@ -24,7 +24,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=3791569573"/>
-  <link rel="stylesheet" type="text/css" href="css/home.css?crc=3850950472" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/home.css?crc=4292519011" id="pagesheet"/>
     <!--HTML Widget code-->
   
 		<style>
@@ -113,32 +113,22 @@ background: #035E7B;
     </div>
    </div>
    <div class="clearfix grpelem" id="pu7069-4"><!-- column -->
-    <div class="clearfix colelem" id="u7069-4"><!-- content -->
-     <p><span id="u7069">Finalist</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu4610-4"><!-- group -->
-     <a class="nonblock nontext clearfix grpelem" id="u4610-4" href="project-mars.html"><!-- content --><p>Project Mars</p></a>
-     <div class="grpelem" id="u4612"><!-- content --></div>
-    </div>
-    <div class="clearfix colelem" id="u7072-4"><!-- content -->
-     <p><span id="u7072">In Progress</span></p>
-    </div>
-    <div class="clearfix colelem" id="pu4618"><!-- group -->
-     <div class="grpelem" id="u4618"><!-- content --></div>
-     <a class="nonblock nontext clearfix grpelem" id="u4621-4" href="national-trust.html"><!-- content --><p>National Trust</p></a>
-    </div>
-    <div class="clearfix colelem" id="u7075-4"><!-- content -->
-     <p><span id="u7075">2019 Animation</span></p>
-    </div>
+    <a class="nonblock nontext clearfix colelem" id="u7069-4" href="project-mars.html"><!-- content --><p><span id="u7069">Finalist</span></p></a>
+    <a class="nonblock nontext clearfix colelem" id="u4610-4" href="project-mars.html"><!-- content --><p>Project Mars</p></a>
     <div class="clearfix colelem" id="pu4611-4"><!-- group -->
      <a class="nonblock nontext clearfix grpelem" id="u4611-4" href="showreel.html"><!-- content --><p>Showreel</p></a>
+     <div class="grpelem" id="u4612"><!-- content --></div>
      <div class="grpelem" id="u4614"><!-- content --></div>
+     <div class="grpelem" id="u4618"><!-- content --></div>
+     <a class="nonblock nontext clearfix grpelem" id="u4621-4" href="portfolio.html"><!-- content --><p>Portfolio</p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u7072-4" href="portfolio.html"><!-- content --><p><span id="u7072">Current work</span></p></a>
+     <a class="nonblock nontext clearfix grpelem" id="u7075-4" href="showreel.html"><!-- content --><p><span id="u7075">2019 Animation</span></p></a>
     </div>
    </div>
-   <div class="clip_frame ose_pre_init mse_pre_init" id="u5148"><!-- svg -->
-    <img class="svg" id="u5149" src="images/pasted-svg-255974x355.svg?crc=4044461284" width="66" height="105" alt="" data-mu-svgfallback="images/pasted%20svg%20255974x355_poster_.png?crc=114120262"/>
+   <div class="clip_frame ose_pre_init mse_pre_init" id="u5148"><!-- image -->
+    <img class="block" id="u5148_img" src="images/pasted%20svg%20255974x355_poster_.png?crc=114120262" alt="" width="66" height="105"/>
    </div>
-   <div class="verticalspacer" data-offset-top="2422" data-content-above-spacer="2422" data-content-below-spacer="97"></div>
+   <div class="verticalspacer" data-offset-top="2344" data-content-above-spacer="2343" data-content-below-spacer="97"></div>
    <a class="nonblock nontext clearfix grpelem" id="u4658-4" href="https://www.behance.net/tomlansdown"><!-- content --><p>Behance</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u4659-4" href="mailto:tomlansdownuni@gmail.com"><!-- content --><p>Email</p></a>
    <a class="nonblock nontext clearfix grpelem" id="u4660-4" href="https://www.linkedin.com/in/tom-lansdown-428256161/"><!-- content --><p>LinkedIn</p></a>
@@ -173,7 +163,7 @@ $('#u4872-13').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-3,0
 $('#u4620-4').registerPositionScrollEffect([{"in":[-Infinity,650],"speed":[-3,0]},{"in":[650,Infinity],"speed":[0,1]}]);/* scroll effect */
 $('#u4799').registerPositionScrollEffect([{"in":[-Infinity,-111.36],"speed":[1,-3]},{"in":[-111.36,Infinity],"speed":[0,0]}]);/* scroll effect */
 $('#u5148').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,-2]},{"in":[0,Infinity],"speed":[0,-3]}]);/* scroll effect */
-$('#u5148').registerOpacityScrollEffect([{"in":[-Infinity,0],"opacity":100,"fade":50},{"in":[0,0],"opacity":100},{"in":[0,Infinity],"opacity":0,"fade":310}]);/* scroll effect */
+$('#u5148').registerOpacityScrollEffect([{"fade":50,"in":[-Infinity,0],"opacity":100},{"in":[0,0],"opacity":100},{"fade":310,"in":[0,Infinity],"opacity":0}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

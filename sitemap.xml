@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/national-trust.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/wage-infographic.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,25 +34,25 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/misc.-animation.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/misc.-posters.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/portfolio.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/city-branding.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,18 +86,18 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/home.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/home.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/home.html"/>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/pasted-svg-255974x355.svg</image:loc>
+      <image:loc>http://tomlansdown.com/images/pasted%20svg%20255974x355_poster_.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://tomlansdown.com/project-mars.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -109,13 +109,19 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/major-project.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/box.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://tomlansdown.com/images/cards.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://tomlansdown.com/art-fund.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -127,13 +133,13 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/misc.-film.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://tomlansdown.com/alphabet-aerobics.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -145,7 +151,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/monir.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -157,7 +163,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/cards.html</loc>
-    <lastmod>2019-03-23</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -169,7 +175,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/penguin.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -187,7 +193,7 @@
   </url>
   <url>
     <loc>http://tomlansdown.com/3d-books.html</loc>
-    <lastmod>2019-03-21</lastmod>
+    <lastmod>2019-07-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -198,14 +204,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://tomlansdown.com/assets/art-fund.pdf</loc>
-    <lastmod>2018-03-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://tomlansdown.com/assets/penguin-student-award.pdf</loc>
-    <lastmod>2018-12-19</lastmod>
+    <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -216,20 +216,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://tomlansdown.com/assets/portfolio.pdf</loc>
+    <lastmod>2019-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://tomlansdown.com/assets/monir.pdf</loc>
     <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tomlansdown.com/assets/adelaide.pdf</loc>
-    <lastmod>2018-04-27</lastmod>
+    <loc>http://tomlansdown.com/assets/art-fund.pdf</loc>
+    <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://tomlansdown.com/assets/portfolio.pdf</loc>
-    <lastmod>2019-03-19</lastmod>
+    <loc>http://tomlansdown.com/assets/adelaide.pdf</loc>
+    <lastmod>2019-03-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
