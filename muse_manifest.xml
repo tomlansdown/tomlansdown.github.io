@@ -1,153 +1,71 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1563392881067">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1577749043009">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_b-master.css" crc="475756506" ref="index"/>
-    <file name="master_a-master.css" crc="3791569573" ref="national-trust:major-project:misc.-film:city-branding:project-mars:art-fund:home:3d-books:work:penguin:showreel:about:monir:cards:alphabet-aerobics:portfolio:misc.-animation:misc.-posters:wage-infographic"/>
-    <file name="national-trust.css" crc="3895846115" ref="national-trust"/>
-    <file name="major-project.css" crc="3937137987" ref="major-project"/>
-    <file name="misc_-film.css" crc="283692226" ref="misc.-film"/>
-    <file name="city-branding.css" crc="318981574" ref="city-branding"/>
-    <file name="project-mars.css" crc="428662919" ref="project-mars"/>
-    <file name="art-fund.css" crc="510039389" ref="art-fund"/>
-    <file name="home.css" crc="4292519011" ref="home"/>
-    <file name="3d-books.css" crc="3883140140" ref="3d-books"/>
+    <file name="site_global.css" crc="4136676905"/>
+    <file name="master_a-master.css" crc="3791569573" ref="home:national-trust:animal-cards:contact:monir:showreel"/>
+    <file name="master_b-master.css" crc="522734766" ref="index"/>
+    <file name="home.css" crc="4172569390" ref="home"/>
     <file name="index.css" crc="3949338579" ref="index"/>
-    <file name="work.css" crc="4013836020" ref="work"/>
-    <file name="penguin.css" crc="3786969081" ref="penguin"/>
-    <file name="showreel.css" crc="224295882" ref="showreel"/>
-    <file name="about.css" crc="4027112970" ref="about"/>
-    <file name="monir.css" crc="4119806287" ref="monir"/>
-    <file name="cards.css" crc="4235523785" ref="cards"/>
-    <file name="alphabet-aerobics.css" crc="321619001" ref="alphabet-aerobics"/>
-    <file name="portfolio.css" crc="17213149" ref="portfolio"/>
-    <file name="misc_-animation.css" crc="4293743103" ref="misc.-animation"/>
-    <file name="misc_-posters.css" crc="4079253174" ref="misc.-posters"/>
-    <file name="wage-infographic.css" crc="4259072764" ref="wage-infographic"/>
-  </folder>
-  <folder name="assets">
-    <file name="monir.pdf" crc="3971441124" seo="true" mt="1552171966000"/>
-    <file name="prints.pdf" crc="524414538" seo="true" mt="1553344442000"/>
-    <file name="adelaide.pdf" crc="4061042264" seo="true" mt="1552171966000"/>
-    <file name="art-fund.pdf" crc="4238772500" seo="true" mt="1552171966000"/>
-    <file name="penguin-student-award.pdf" crc="4230395268" seo="true" mt="1552171966000"/>
-    <file name="portfolio.pdf" crc="249079743" seo="true" mt="1562595458000"/>
-    <file name="mars-process.pdf" crc="3962917455" seo="true" mt="1524042416000"/>
-    <file name="crisis-process.pdf" crc="63010677" seo="true" mt="1555440320000"/>
-    <file name="nts-process.pdf" crc="201846947" seo="true" mt="1563372167000"/>
-    <file name="monir-process.pdf" crc="5333988" seo="true" mt="1545226018000"/>
-    <file name="penguin-process.pdf" crc="3989357051" seo="true" mt="1563390139000"/>
+    <file name="national-trust.css" crc="3896379376" ref="national-trust"/>
+    <file name="animal-cards.css" crc="3891555496" ref="animal-cards"/>
+    <file name="contact.css" crc="64343837" ref="contact"/>
+    <file name="monir.css" crc="4046798605" ref="monir"/>
+    <file name="showreel.css" crc="95588862" ref="showreel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>about:tablet>index:tablet>about:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
-    <file name="require.js" crc="7928878" ref="phone>index:phone>home:phone>about:phone>work:tablet>index:tablet>home:tablet>about:tablet>work:index:work:about:showreel:home:project-mars:major-project:national-trust:wage-infographic:alphabet-aerobics:monir:cards:penguin:3d-books:art-fund:city-branding:misc.-film:misc.-posters:misc.-animation:portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:tablet>index:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
   </folder>
   <folder name="images">
-    <file name="pasted svg 255974x355_poster_.png" crc="114120262" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
+    <file name="card_1-crop-u13990.jpg" crc="3801706519" seo="true" ref="animal-cards">
+      <caption webpage="animal-cards" alt=""/>
     </file>
-    <file name="screenshot 2019-02-07 at 114735-crop-u6347.jpg" crc="312904815" seo="true" ref="national-trust">
-      <caption webpage="national-trust" alt=""/>
+    <file name="card_2.jpg" crc="3768475600" seo="true" ref="animal-cards">
+      <caption webpage="animal-cards" alt=""/>
     </file>
-    <file name="screenshot 2019-02-07 at 114805.jpg" crc="3972967850" seo="true" ref="national-trust">
-      <caption webpage="national-trust" alt=""/>
+    <file name="card_3.jpg" crc="389910762" seo="true" ref="animal-cards">
+      <caption webpage="animal-cards" alt=""/>
     </file>
-    <file name="screenshot 2019-03-09 at 172650.jpg" crc="3780472999" seo="true" ref="wage-infographic">
-      <caption webpage="wage-infographic" alt=""/>
-    </file>
-    <file name="screenshot 2019-03-09 at 172631.jpg" crc="4233540874" seo="true" ref="wage-infographic">
-      <caption webpage="wage-infographic" alt=""/>
-    </file>
-    <file name="screenshot 2019-03-09 at 173022.jpg" crc="4152398769" seo="true" ref="alphabet-aerobics">
-      <caption webpage="alphabet-aerobics" alt=""/>
-    </file>
-    <file name="screenshot 2019-03-09 at 173107.jpg" crc="4110632184" seo="true" ref="alphabet-aerobics">
-      <caption webpage="alphabet-aerobics" alt=""/>
-    </file>
-    <file name="monir_9.jpg" crc="4153637186" seo="true" ref="monir">
+    <file name="monir_1.jpg" crc="526923527" seo="true" ref="monir">
       <caption webpage="monir" alt=""/>
     </file>
-    <file name="monir_8.jpg" crc="3843201806" seo="true" ref="monir">
+    <file name="monir_2.jpg" crc="4134714466" seo="true" ref="monir">
       <caption webpage="monir" alt=""/>
     </file>
-    <file name="dsc_5660-2.jpg" crc="295173800" seo="true" ref="cards">
-      <caption webpage="cards" alt=""/>
-    </file>
-    <file name="dsc_5615-2.jpg" crc="4026407052" seo="true" ref="cards">
-      <caption webpage="cards" alt=""/>
-    </file>
-    <file name="norwegian wood-crop-u7376.jpg" crc="3830248451" seo="true" ref="penguin">
-      <caption webpage="penguin" alt=""/>
-    </file>
-    <file name="the establishment-crop-u7373.jpg" crc="528574992" seo="true" ref="penguin">
-      <caption webpage="penguin" alt=""/>
-    </file>
-    <file name="img_20161205_141124854-3-2-crop-u6683.jpg" crc="4148120514" seo="true" ref="3d-books">
-      <caption webpage="3d-books" alt=""/>
-    </file>
-    <file name="img_20161205_141158884-2-2.jpg" crc="11545988" seo="true" ref="3d-books">
-      <caption webpage="3d-books" alt=""/>
-    </file>
-    <file name="tom lansdown - ycn_page_09.jpg" crc="111981002" seo="true" ref="art-fund">
-      <caption webpage="art-fund" alt=""/>
-    </file>
-    <file name="bus.png" crc="4232305511" seo="true" ref="art-fund">
-      <caption webpage="art-fund" alt=""/>
-    </file>
-    <file name="tom lansdown - adelaide (1)_page_08.jpg" crc="386930594" seo="true" ref="city-branding">
-      <caption webpage="city-branding" alt=""/>
-    </file>
-    <file name="tom lansdown - adelaide (1)_page_09.jpg" crc="409395187" seo="true" ref="city-branding">
-      <caption webpage="city-branding" alt=""/>
+    <file name="monir_3.jpg" crc="507618202" seo="true" ref="monir">
+      <caption webpage="monir" alt=""/>
     </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="163698601" ref="tablet>work:tablet>about:tablet>home"/>
-      <file name="index.css" crc="3894605924" ref="tablet>index"/>
-      <file name="work.css" crc="331075436" ref="tablet>work"/>
-      <file name="about.css" crc="264483727" ref="tablet>about"/>
-      <file name="home.css" crc="345803002" ref="tablet>home"/>
+      <file name="master_a-master.css" crc="163698601" ref="tablet>home:tablet>contact"/>
+      <file name="index.css" crc="45584218" ref="tablet>index"/>
+      <file name="home.css" crc="4084073542" ref="tablet>home"/>
+      <file name="contact.css" crc="4065715127" ref="tablet>contact"/>
     </folder>
-    <file name="index.html" crc="3817121390" seo="true" mt="1552228301319" redirect="true"/>
-    <file name="home.html" crc="4232857404" seo="true" mt="1562611927959" redirect="true"/>
-    <file name="about.html" crc="358606623" seo="true" mt="1562611956816" redirect="true"/>
-    <file name="work.html" crc="508469519" seo="true" mt="1562611972417" redirect="true"/>
+    <file name="index.html" crc="3890271409" seo="true" mt="1577748275741" redirect="true"/>
+    <file name="home.html" crc="3805440312" seo="true" mt="1577748356595" redirect="true"/>
+    <file name="contact.html" crc="4120323821" seo="true" mt="1577748724130" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4011040379" ref="phone>index"/>
-      <file name="work.css" crc="151337066" ref="phone>work"/>
-      <file name="about.css" crc="223914697" ref="phone>about"/>
-      <file name="home.css" crc="3866264341" ref="phone>home"/>
+      <file name="index.css" crc="529784371" ref="phone>index"/>
+      <file name="home.css" crc="3812001979" ref="phone>home"/>
+      <file name="contact.css" crc="146163044" ref="phone>contact"/>
     </folder>
-    <file name="index.html" crc="4209478713" seo="true" mt="1552225880539" redirect="true"/>
-    <file name="home.html" crc="3762583635" seo="true" mt="1552228392187" redirect="true"/>
-    <file name="about.html" crc="183958832" seo="true" mt="1552226146661" redirect="true"/>
-    <file name="work.html" crc="10951300" seo="true" mt="1553202891738" redirect="true"/>
+    <file name="index.html" crc="3987723461" seo="true" mt="1577745457265" redirect="true"/>
+    <file name="home.html" crc="4192313019" seo="true" mt="1577747876642" redirect="true"/>
+    <file name="contact.html" crc="3834233406" seo="true" mt="1577746957707" redirect="true"/>
   </folder>
-  <file name="index.html" crc="464144290" seo="true" mt="1552228742550" redirect="true"/>
-  <file name="work.html" crc="3947799853" seo="true" mt="1553203147975" redirect="true"/>
-  <file name="about.html" crc="4286539742" seo="true" mt="1553202623753" redirect="true"/>
-  <file name="showreel.html" crc="476526254" seo="true" mt="1563391743126" redirect="true"/>
-  <file name="home.html" crc="3978869360" seo="true" mt="1562613837929" redirect="true"/>
-  <file name="project-mars.html" crc="498605774" seo="true" mt="1563391971235" redirect="true"/>
-  <file name="major-project.html" crc="251422374" seo="true" mt="1563392120432" redirect="true"/>
-  <file name="national-trust.html" crc="376468368" seo="true" mt="1563392215574" redirect="true"/>
-  <file name="wage-infographic.html" crc="157544504" seo="true" mt="1562609760015" redirect="true"/>
-  <file name="alphabet-aerobics.html" crc="3792565906" seo="true" mt="1562609849131" redirect="true"/>
-  <file name="monir.html" crc="122453576" seo="true" mt="1563392695209" redirect="true"/>
-  <file name="cards.html" crc="167460004" seo="true" mt="1562610001134" redirect="true"/>
-  <file name="penguin.html" crc="306109960" seo="true" mt="1563392641424" redirect="true"/>
-  <file name="3d-books.html" crc="4247430852" seo="true" mt="1562614084227" redirect="true"/>
-  <file name="art-fund.html" crc="4153496907" seo="true" mt="1562611362083" redirect="true"/>
-  <file name="city-branding.html" crc="7594437" seo="true" mt="1562611433172" redirect="true"/>
-  <file name="misc.-film.html" crc="283652491" seo="true" mt="1562611624732" redirect="true"/>
-  <file name="misc.-posters.html" crc="345512429" seo="true" mt="1562611635822" redirect="true"/>
-  <file name="misc.-animation.html" crc="456209100" seo="true" mt="1562611641695" redirect="true"/>
-  <file name="portfolio.html" crc="429960781" seo="true" mt="1562611517898" redirect="true"/>
+  <file name="index.html" crc="13727092" seo="true" mt="1577734711346" redirect="true"/>
+  <file name="showreel.html" crc="215889943" seo="true" mt="1577743651970" redirect="true"/>
+  <file name="home.html" crc="4195658865" seo="true" mt="1577744599291" redirect="true"/>
+  <file name="national-trust.html" crc="128459398" seo="true" mt="1577742183207" redirect="true"/>
+  <file name="animal-cards.html" crc="476867413" seo="true" mt="1577742175052" redirect="true"/>
+  <file name="contact.html" crc="3804055699" seo="true" mt="1577745143038" redirect="true"/>
+  <file name="monir.html" crc="35122301" seo="true" mt="1577748604461" redirect="true"/>
 </manifest>

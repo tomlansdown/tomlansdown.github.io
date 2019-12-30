@@ -22,8 +22,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link media="only screen and (max-width: 960px)" rel="alternate" href="http://tomlansdown.com/tablet/index.html"/>
   <title>Landing</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=475756506"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3863802018"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=522734766"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?crc=3949338579" id="pagesheet"/>
     <!--HTML Widget code-->
   
@@ -181,9 +181,9 @@ Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u4106-4').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[-0.5,0]},{"in":[0,Infinity],"speed":[0,-0.5]}]);/* scroll effect */
+$('#u4106-4').registerPositionScrollEffect([{"speed":[-0.5,0],"in":[-Infinity,0]},{"speed":[0,-0.5],"in":[0,Infinity]}]);/* scroll effect */
 $('#u4106-4').registerOpacityScrollEffect([{"fade":0,"in":[-Infinity,0],"opacity":0},{"in":[0,0],"opacity":100},{"fade":850,"in":[0,Infinity],"opacity":0}]);/* scroll effect */
-$('#u4113').registerPositionScrollEffect([{"in":[-Infinity,-102.75],"speed":[1,-3]},{"in":[-102.75,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u4113').registerPositionScrollEffect([{"speed":[1,-3],"in":[-Infinity,-102.75]},{"speed":[0,0],"in":[-102.75,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
