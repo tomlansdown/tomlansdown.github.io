@@ -1,27 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1577749043009">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1577750992311">
   <folder name="css">
     <file name="site_global.css" crc="4136676905"/>
     <file name="master_a-master.css" crc="3791569573" ref="home:national-trust:animal-cards:contact:monir:showreel"/>
     <file name="master_b-master.css" crc="522734766" ref="index"/>
     <file name="home.css" crc="4172569390" ref="home"/>
     <file name="index.css" crc="3949338579" ref="index"/>
-    <file name="national-trust.css" crc="3896379376" ref="national-trust"/>
-    <file name="animal-cards.css" crc="3891555496" ref="animal-cards"/>
+    <file name="national-trust.css" crc="138951880" ref="national-trust"/>
+    <file name="animal-cards.css" crc="280470603" ref="animal-cards"/>
     <file name="contact.css" crc="64343837" ref="contact"/>
-    <file name="monir.css" crc="4046798605" ref="monir"/>
-    <file name="showreel.css" crc="95588862" ref="showreel"/>
+    <file name="monir.css" crc="4116712762" ref="monir"/>
+    <file name="showreel.css" crc="3954634176" ref="showreel"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:tablet>index:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
-    <file name="require.js" crc="7928878" ref="phone>index:phone>home:tablet>index:tablet>home:index:showreel:home:national-trust:animal-cards:contact:monir:phone>contact:tablet>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>contact:tablet>index:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>home:phone>contact:tablet>index:tablet>home:tablet>contact:index:showreel:home:national-trust:animal-cards:contact:monir"/>
   </folder>
   <folder name="images">
-    <file name="card_1-crop-u13990.jpg" crc="3801706519" seo="true" ref="animal-cards">
+    <file name="card_1.jpg" crc="103453152" seo="true" ref="animal-cards">
       <caption webpage="animal-cards" alt=""/>
     </file>
     <file name="card_2.jpg" crc="3768475600" seo="true" ref="animal-cards">
@@ -43,29 +43,29 @@
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="163698601" ref="tablet>home:tablet>contact"/>
-      <file name="index.css" crc="45584218" ref="tablet>index"/>
+      <file name="index.css" crc="432691103" ref="tablet>index"/>
       <file name="home.css" crc="4084073542" ref="tablet>home"/>
-      <file name="contact.css" crc="4065715127" ref="tablet>contact"/>
+      <file name="contact.css" crc="3982855735" ref="tablet>contact"/>
     </folder>
-    <file name="index.html" crc="3890271409" seo="true" mt="1577748275741" redirect="true"/>
+    <file name="index.html" crc="292146539" seo="true" mt="1577750064757" redirect="true"/>
     <file name="home.html" crc="3805440312" seo="true" mt="1577748356595" redirect="true"/>
-    <file name="contact.html" crc="4120323821" seo="true" mt="1577748724130" redirect="true"/>
+    <file name="contact.html" crc="4024986141" seo="true" mt="1577750087046" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="529784371" ref="phone>index"/>
-      <file name="home.css" crc="3812001979" ref="phone>home"/>
-      <file name="contact.css" crc="146163044" ref="phone>contact"/>
+      <file name="contact.css" crc="178077361" ref="phone>contact"/>
+      <file name="index.css" crc="90703157" ref="phone>index"/>
+      <file name="home.css" crc="3903459198" ref="phone>home"/>
     </folder>
-    <file name="index.html" crc="3987723461" seo="true" mt="1577745457265" redirect="true"/>
-    <file name="home.html" crc="4192313019" seo="true" mt="1577747876642" redirect="true"/>
-    <file name="contact.html" crc="3834233406" seo="true" mt="1577746957707" redirect="true"/>
+    <file name="index.html" crc="485608915" seo="true" mt="1577750021710" redirect="true"/>
+    <file name="home.html" crc="4224954699" seo="true" mt="1577749956965" redirect="true"/>
+    <file name="contact.html" crc="81670979" seo="true" mt="1577749975931" redirect="true"/>
   </folder>
-  <file name="index.html" crc="13727092" seo="true" mt="1577734711346" redirect="true"/>
-  <file name="showreel.html" crc="215889943" seo="true" mt="1577743651970" redirect="true"/>
-  <file name="home.html" crc="4195658865" seo="true" mt="1577744599291" redirect="true"/>
-  <file name="national-trust.html" crc="128459398" seo="true" mt="1577742183207" redirect="true"/>
-  <file name="animal-cards.html" crc="476867413" seo="true" mt="1577742175052" redirect="true"/>
+  <file name="index.html" crc="229353753" seo="true" mt="1577734711346" redirect="true"/>
+  <file name="showreel.html" crc="3866592029" seo="true" mt="1577750324048" redirect="true"/>
+  <file name="home.html" crc="4279125008" seo="true" mt="1577744599291" redirect="true"/>
+  <file name="national-trust.html" crc="4245179228" seo="true" mt="1577750514674" redirect="true"/>
+  <file name="animal-cards.html" crc="4140112595" seo="true" mt="1577750948499" redirect="true"/>
   <file name="contact.html" crc="3804055699" seo="true" mt="1577745143038" redirect="true"/>
-  <file name="monir.html" crc="35122301" seo="true" mt="1577748604461" redirect="true"/>
+  <file name="monir.html" crc="247315384" seo="true" mt="1577750921880" redirect="true"/>
 </manifest>
