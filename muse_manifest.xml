@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1590840804453">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1590847547643">
   <folder name="css">
-    <file name="site_global.css" crc="315374978"/>
-    <file name="index.css" crc="4175465779" ref="index"/>
+    <file name="site_global.css" crc="3874733780"/>
+    <file name="index.css" crc="54146967" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -46,15 +46,15 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="235291058" ref="tablet>index"/>
+      <file name="index.css" crc="167347447" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4092223329" seo="true" mt="1590840739202" redirect="true"/>
+    <file name="index.html" crc="241306826" seo="true" mt="1590847179371" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="465190748" ref="phone>index"/>
+      <file name="index.css" crc="4010744688" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4233744399" seo="true" mt="1590840747918" redirect="true"/>
+    <file name="index.html" crc="4234495842" seo="true" mt="1590847339323" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4049358511" seo="true" mt="1590840504516" redirect="true"/>
+  <file name="index.html" crc="3773102733" seo="true" mt="1590846404367" redirect="true"/>
 </manifest>
