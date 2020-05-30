@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1590847547643">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tomlansdown.com" resolutions="1x" timestamp="1590848618268">
   <folder name="css">
-    <file name="site_global.css" crc="3874733780"/>
+    <file name="site_global.css" crc="360309041"/>
     <file name="index.css" crc="54146967" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -15,40 +15,30 @@
   <folder name="images">
     <file name="instagram.svg" crc="3886884329" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="instagram_poster_.png" crc="146081261" ref="phone>index"/>
+    <file name="instagram_poster_.png" crc="146081261" ref="phone>index:tablet>index"/>
     <file name="behance.svg" crc="184870605" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="behance_poster_.png" crc="3903244021" ref="phone>index"/>
+    <file name="behance_poster_.png" crc="3903244021" ref="phone>index:tablet>index"/>
     <file name="vimeo.svg" crc="3886627717" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="vimeo_poster_.png" crc="3902749862" ref="phone>index"/>
+    <file name="vimeo_poster_.png" crc="3902749862" ref="phone>index:tablet>index"/>
     <file name="linkedin.svg" crc="3870773082" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="linkedin_poster_.png" crc="175162132" ref="phone>index"/>
+    <file name="linkedin_poster_.png" crc="175162132" ref="phone>index:tablet>index"/>
     <file name="telegram.svg" crc="4216892845" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="telegram_poster_.png" crc="3868452112" ref="phone>index"/>
+    <file name="telegram_poster_.png" crc="3868452112" ref="phone>index:tablet>index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="167347447" ref="tablet>index"/>
+      <file name="index.css" crc="297157507" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="241306826" seo="true" mt="1590847179371" redirect="true"/>
+    <file name="index.html" crc="4117969336" seo="true" mt="1590848567673" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
