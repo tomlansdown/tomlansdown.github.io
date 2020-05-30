@@ -2,68 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://tomlansdown.com/index.html</loc>
-    <lastmod>2019-12-30</lastmod>
+    <lastmod>2020-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/index.html"/>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/showreel.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/home.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/home.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/home.html"/>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/national-trust.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/animal-cards.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/card_1.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/instagram.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/card_2.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/behance.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/card_3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/contact.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://tomlansdown.com/phone/contact.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://tomlansdown.com/tablet/contact.html"/>
-  </url>
-  <url>
-    <loc>http://tomlansdown.com/monir.html</loc>
-    <lastmod>2020-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_1.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/vimeo.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_2.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/linkedin.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://tomlansdown.com/images/monir_3.jpg</image:loc>
+      <image:loc>http://tomlansdown.com/images/telegram.svg</image:loc>
     </image:image>
   </url>
 </urlset>
