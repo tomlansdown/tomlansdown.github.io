@@ -4,6 +4,7 @@
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2018.1.0.386"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
    // Redirect to phone/tablet as necessary
@@ -15,29 +16,25 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.scrolleffects.js", "require.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
   <link media="only screen and (max-width: 370px)" rel="alternate" href="http://tomlansdown.com/phone/index.html"/>
   <link media="only screen and (max-width: 960px)" rel="alternate" href="http://tomlansdown.com/tablet/index.html"/>
-  <title>Landing</title>
+  <title>Tom Lansdown</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3874733780"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=54146967" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=360309041"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3942443314" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=155679194" id="nomq_pagesheet"/>
+  <![endif]-->
    </head>
  <body>
 
-  <div class="clearfix" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="phome"><!-- column -->
-    <a class="anchor_item colelem" id="home"></a>
-    <a class="anchor_item colelem" id="awards"></a>
-    <a class="anchor_item colelem" id="commercial"></a>
-    <a class="anchor_item colelem" id="university"></a>
-    <a class="anchor_item colelem" id="experiments"></a>
-    <a class="anchor_item colelem" id="contact"></a>
-   </div>
-   <div class="clearfix grpelem" id="ppu14673-4"><!-- column -->
-    <div class="clearfix colelem" id="pu14673-4"><!-- group -->
+  <div class="breakpoint active" id="bp_infinity" data-min-width="1367"><!-- responsive breakpoint node -->
+   <div class="clearfix" id="page"><!-- group -->
+    <div class="clearfix grpelem shared_content" id="pu14673-4" data-content-guid="pu14673-4_content"><!-- group -->
      <div class="clearfix grpelem" id="u14673-4"><!-- content -->
       <p><span id="u14673">A short list.</span></p>
      </div>
@@ -84,9 +81,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div id="u18578"><!-- simple frame --></div>
      </div>
      <div class="browser_width grpelem" id="u18581-bw">
-      <div id="u18581"><!-- column -->
+      <div id="u18581"><!-- group -->
        <div class="clearfix" id="u18581_align_to_page">
-        <div class="clearfix colelem" id="u15253-28"><!-- content -->
+        <div class="clearfix grpelem" id="u15253-28"><!-- content -->
          <p>I'm a sketcher, designer and animator.</p>
          <p>&nbsp;</p>
          <p>While studying graphic design I started to develop my skills in animation</p>
@@ -98,142 +95,40 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
          <p>&nbsp;</p>
          <p class="MINIMAL-BLUE">You can see what I do on my <span id="u15253-19"><a class="nonblock" href="https://www.behance.net/gallery/80991493/Showreel" target="_blank">showreel</a></span><span id="u15253-20"> or what I've been up to on </span>my <span id="u15253-24"><a class="nonblock" href="https://www.instagram.com/tomlansdown" target="_blank">instagram</a></span><span id="u15253-25">.</span></p>
         </div>
-        <div class="clearfix colelem" id="pu17072-15"><!-- group -->
-         <div class="clearfix grpelem" id="u17072-15"><!-- content -->
-          <p id="u17072-2">2020 Reading List</p>
-          <p id="u17072-3">&nbsp;</p>
-          <p class="Blue" id="u17072-5">Americana</p>
-          <p class="Blue" id="u17072-7">Equal Rites</p>
-          <p class="Blue" id="u17072-9">The Little Friend</p>
-          <p class="Blue" id="u17072-11">The Psychopath Test</p>
-          <p class="Blue" id="u17072-13">The Girl with the Dragon Tattoo</p>
-         </div>
-         <div class="clearfix grpelem" id="u17213-15"><!-- content -->
-          <p id="u17213-2">2020 Listening list</p>
-          <p id="u17213-3">&nbsp;</p>
-          <p id="u17213-5">Dr Dog</p>
-          <p id="u17213-7">Bahamas</p>
-          <p id="u17213-9">Johnny Flynn</p>
-          <p id="u17213-11">The Olympians</p>
-          <p id="u17213-13">Michael Kiwanuka</p>
-         </div>
-        </div>
        </div>
       </div>
      </div>
      <div class="clearfix grpelem" id="u15254-10"><!-- content -->
       <p id="u15254-2">I am currently</p>
       <p id="u15254-3">&nbsp;</p>
-      <p class="MINIMAL-BLUE" id="u15254-8"><span id="u15254-4">at </span><span><a class="nonblock" href="http://Union.co.uk" target="_blank">UNION</a></span></p>
-     </div>
-     <div class="browser_width grpelem" id="u16961-bw">
-      <div id="u16961"><!-- simple frame --></div>
+      <p class="MINIMAL-BLUE" id="u15254-8"><span id="u15254-4">at </span><span><a class="nonblock" href="https://leith.co.uk/" target="_blank">Leith</a></span></p>
      </div>
     </div>
-    <div class="browser_width colelem" id="u17583-bw">
-     <div id="u17583"><!-- simple frame --></div>
-    </div>
-    <div class="browser_width colelem" id="u17589-bw">
-     <div id="u17589"><!-- simple frame --></div>
-    </div>
-    <div class="browser_width colelem" id="u17595-bw">
-     <div id="u17595"><!-- simple frame --></div>
-    </div>
-    <div class="clearfix colelem" id="pu17107-7"><!-- group -->
-     <div class="clearfix grpelem" id="u17107-7"><!-- content -->
-      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</p>
-      <p>&nbsp;</p>
-      <p>SHOWREEL SOMEWHERE AND EASY LINK TO INSTA</p>
+    <div class="clearfix grpelem shared_content" id="pu14664-4" data-content-guid="pu14664-4_content"><!-- group -->
+     <div class="clearfix mse_pre_init" id="u14664-4"><!-- content -->
+      <p>Designer.</p>
      </div>
-     <div class="browser_width grpelem" id="u16176-bw">
-      <div id="u16176"><!-- column -->
-       <div class="clearfix" id="u16176_align_to_page">
-        <div class="clearfix colelem" id="u17108-6"><!-- content -->
-         <p>if you'd like</p>
-         <p>to get in touch</p>
-        </div>
-        <div class="clearfix colelem" id="pu17499"><!-- group -->
-         <a class="nonblock nontext clip_frame grpelem" id="u17499" href="https://www.instagram.com/tomlansdown/" target="_blank"><!-- svg --><img class="svg" id="u17500" src="images/instagram.svg?crc=3886884329" width="48" height="48" alt="" data-mu-svgfallback="images/instagram_poster_.png?crc=146081261"/></a>
-         <a class="nonblock nontext clip_frame grpelem" id="u17490" href="https://www.behance.net/tomlansdown" target="_blank"><!-- svg --><img class="svg" id="u17491" src="images/behance.svg?crc=184870605" width="48" height="48" alt="" data-mu-svgfallback="images/behance_poster_.png?crc=3903244021"/></a>
-         <a class="nonblock nontext clip_frame grpelem" id="u17463" href="https://vimeo.com/tomlansdown" target="_blank"><!-- svg --><img class="svg" id="u17464" src="images/vimeo.svg?crc=3886627717" width="48" height="48" alt="" data-mu-svgfallback="images/vimeo_poster_.png?crc=3902749862"/></a>
-         <a class="nonblock nontext clip_frame grpelem" id="u17454" href="https://www.linkedin.com/in/tomlansdown/" target="_blank"><!-- svg --><img class="svg" id="u17455" src="images/linkedin.svg?crc=3870773082" width="48" height="48" alt="" data-mu-svgfallback="images/linkedin_poster_.png?crc=175162132"/></a>
-         <a class="nonblock nontext clip_frame grpelem" id="u17481" href="mailto:tom@lansdown.me" target="_blank"><!-- svg --><img class="svg" id="u17482" src="images/telegram.svg?crc=4216892845" width="48" height="48" alt="" data-mu-svgfallback="images/telegram_poster_.png?crc=3868452112"/></a>
-        </div>
-        <div class="clearfix colelem" id="u17057-4"><!-- content -->
-         <p>© 2020 Tom Lansdown</p>
-        </div>
-       </div>
-      </div>
+     <div class="clearfix mse_pre_init" id="u14674-4"><!-- content -->
+      <p>Tom is a</p>
+     </div>
+     <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u18651-13"><!-- content -->
+      <p id="u18651">&nbsp;</p>
+      <p id="u18651-2">&nbsp;</p>
+      <p id="u18651-5"><br/><span id="u18651-4">refining</span></p>
+      <p id="u18651-7">animating</p>
+      <p id="u18651-9">designing</p>
+      <p id="u18651-11">researching</p>
      </div>
     </div>
+    <div class="verticalspacer" data-offset-top="3761" data-content-above-spacer="3761" data-content-below-spacer="0"></div>
    </div>
-   <div class="clearfix grpelem" id="pu14664-4"><!-- group -->
-    <div class="clearfix mse_pre_init" id="u14664-4"><!-- content -->
-     <p>Designer.</p>
-    </div>
-    <div class="clearfix mse_pre_init" id="u14674-4"><!-- content -->
-     <p>Tom is a</p>
-    </div>
-    <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u18651-13"><!-- content -->
-     <p id="u18651">&nbsp;</p>
-     <p id="u18651-2">&nbsp;</p>
-     <p id="u18651-5"><br/><span id="u18651-4">refining</span></p>
-     <p id="u18651-7">animating</p>
-     <p id="u18651-9">designing</p>
-     <p id="u18651-11">researching</p>
-    </div>
-    <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u16311-40"><!-- content -->
-     <p id="u16311-2">Awards</p>
-     <p id="u16311-3">&nbsp;</p>
-     <p id="u16311-14"><span><a class="nonblock" href="https://www.behance.net/gallery/86450351/Monir-Creative-Conscience" target="_blank"><span id="u16311-4">Monir</span></a></span><span id="u16311-7"> - </span><span><a class="nonblock" href="https://www.creative-conscience.org.uk/winners/tom-landsdown/" target="_blank"><span id="u16311-8">Highly Commended</span></a></span><span id="u16311-12"><br/></span><span id="u16311-13">Art Direction - Copywriting - Illustration</span></p>
-     <p id="u16311-15">&nbsp;</p>
-     <p id="u16311-26"><span><a class="nonblock" href="https://www.behance.net/gallery/74860103/Project-Mars-Patience" target="_blank"><span id="u16311-16">Project Mars</span></a></span><span id="u16311-19"> - </span><span><a class="nonblock" href="https://projectmarscompetition.com/winning_films.html" target="_blank"><span id="u16311-20">Finalist</span></a></span><span id="u16311-24"><br/></span><span id="u16311-25">Art Direction - Animation - Illustration</span></p>
-     <p id="u16311-27">&nbsp;</p>
-     <p id="u16311-38"><span><a class="nonblock" href="https://www.behance.net/gallery/80991381/Major-Project" target="_blank"><span id="u16311-28">Major Project</span></a></span><span id="u16311-31"> - </span><span><a class="nonblock" href="https://www.napier.ac.uk/about-us/news/best-in-show-2019-winners-announced" target="_blank"><span id="u16311-32">Graduate Prize 2019</span></a></span><span id="u16311-36"><br/></span><span id="u16311-37">Art Direction - Animation - Illustration</span></p>
-    </div>
-    <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u17586-28"><!-- content -->
-     <p id="u17586-2">Commercial</p>
-     <p id="u17586-3">&nbsp;</p>
-     <p id="u17586-10"><span><a class="nonblock" href="https://www.behance.net/gallery/97758865/SEPA" target="_blank"><span id="u17586-4">SEPA</span></a></span><span id="u17586-8"><br/></span><span id="u17586-9">Animation - Art direction - Illustration</span></p>
-     <p id="u17586-11">&nbsp;</p>
-     <p id="u17586-18"><span><a class="nonblock" href="https://www.behance.net/gallery/97758995/Star-Pubs-Bars" target="_blank"><span id="u17586-12">Star Pubs &amp; Bars</span></a></span><span id="u17586-16"><br/></span><span id="u17586-17">Animation - Branding - Design</span></p>
-     <p id="u17586-19">&nbsp;</p>
-     <p id="u17586-26"><span><a class="nonblock" href="https://www.behance.net/gallery/97758987/Zero-Waste-Scotland" target="_blank"><span id="u17586-20">Zero Waste Scotland</span></a></span><span id="u17586-24"><br/></span><span id="u17586-25">Animation - Art Direction - Illustration</span></p>
-    </div>
-    <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u17592-28"><!-- content -->
-     <p id="u17592-2">University</p>
-     <p id="u17592-3">&nbsp;</p>
-     <p id="u17592-10"><span><a class="nonblock" href="https://www.behance.net/gallery/97759085/National-Trust" target="_blank"><span id="u17592-4">National Trust</span></a></span><span id="u17592-8"><br/></span><span id="u17592-9">Animation - Art Direction - Illustration</span></p>
-     <p id="u17592-11">&nbsp;</p>
-     <p id="u17592-18"><span><a class="nonblock" href="https://www.behance.net/gallery/97759077/Art-Fund" target="_blank"><span id="u17592-12">Art Fund</span></a></span><span id="u17592-16"><br/></span><span id="u17592-17">Art Direction - Branding - Design</span></p>
-     <p id="u17592-19">&nbsp;</p>
-     <p id="u17592-26"><span><a class="nonblock" href="https://www.behance.net/gallery/76922735/The-Gender-Pay-Gap" target="_blank"><span id="u17592-20">The Gender Pay Gap</span></a></span><span id="u17592-24"><br/></span><span id="u17592-25">Animation - Art Direction - Copywriting</span></p>
-    </div>
-    <div class="MINIMAL-BLUE clearfix mse_pre_init" id="u17598-27"><!-- content -->
-     <p id="u17598-2">Experiments</p>
-     <p id="u17598-3">&nbsp;</p>
-     <p id="u17598-9"><a class="nonblock" href="https://www.behance.net/gallery/97759181/Cinema4D-Experiments" target="_blank"><span id="u17598-4">Cinema4D</span><span id="u17598-6"><br/></span></a><span id="u17598-8">Animation - Art Direction - Modelling</span></p>
-     <p id="u17598-10">&nbsp;</p>
-     <p id="u17598-17"><span><a class="nonblock" href="https://www.behance.net/gallery/97758983/After-Effects-Experiments" target="_blank"><span id="u17598-11">After Effects</span></a></span><span id="u17598-15"><br/></span><span id="u17598-16">Animation - Art Direction - Illustration</span></p>
-     <p id="u17598-18">&nbsp;</p>
-     <p id="u17598-25"><span><a class="nonblock" href="https://www.behance.net/gallery/97758967/Design-Illustration-Experiments" target="_blank"><span id="u17598-19">Design &amp; Illustration</span></a></span><span id="u17598-23"><br/></span><span id="u17598-24">Branding - Illustration - Printmaking</span></p>
-    </div>
-    <div class="pointer_cursor MINIMAL-BLUE clearfix mse_pre_init" id="u14680-31"><!-- content -->
-     <a class="block anim_swing" href="index.html#home"><!-- Block link tag --></a>
-     <p id="u14680-4"><span><a class="nonblock anim_swing" href="index.html#home"><span id="u14680">Home</span></a></span></p>
-     <p id="u14680-5">&nbsp;</p>
-     <p id="u14680-9"><span><a class="nonblock anim_swing" href="index.html#awards"><span id="u14680-6">Awards</span></a></span></p>
-     <p id="u14680-10">&nbsp;</p>
-     <p id="u14680-14"><span><a class="nonblock anim_swing" href="index.html#commercial"><span id="u14680-11">Commercial</span></a></span></p>
-     <p id="u14680-15">&nbsp;</p>
-     <p id="u14680-19"><span><a class="nonblock anim_swing" href="index.html#university"><span id="u14680-16">University</span></a></span></p>
-     <p id="u14680-20">&nbsp;</p>
-     <p id="u14680-24"><span><a class="nonblock anim_swing" href="index.html#experiments"><span id="u14680-21">Experiments</span></a></span></p>
-     <p id="u14680-25">&nbsp;</p>
-     <p id="u14680-29"><span><a class="nonblock anim_swing" href="index.html#contact"><span id="u14680-26">Contact</span></a></span></p>
-    </div>
+  </div>
+  <div class="breakpoint" id="bp_1366" data-max-width="1366"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu14673-4_content"><!-- placeholder node --></span>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu14664-4_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="3682" data-content-above-spacer="3682" data-content-below-spacer="3245"></div>
    </div>
-   <div class="verticalspacer" data-offset-top="6938" data-content-above-spacer="6937" data-content-below-spacer="0"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -246,7 +141,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.scrolleffects"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.scrolleffects","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
@@ -254,20 +149,22 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u14664-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1075]},{"speed":[0,-0.1],"in":[1075,Infinity]}]);/* scroll effect */
-$('#u14674-4').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,-0.1],"in":[0,Infinity]}]);/* scroll effect */
-$('#u18651-13').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,2300]},{"speed":[0,0],"in":[2300,Infinity]}]);/* scroll effect */
-$('#u16311-40').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,3644]},{"speed":[0,0],"in":[3644,Infinity]}]);/* scroll effect */
-$('#u17586-28').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,4086]},{"speed":[0,0],"in":[4086,Infinity]}]);/* scroll effect */
-$('#u17592-28').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,4528]},{"speed":[0,0],"in":[4528,Infinity]}]);/* scroll effect */
-$('#u17598-27').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,4970.15]},{"speed":[0,0],"in":[4970.15,Infinity]}]);/* scroll effect */
-$('#u14680-31').registerPositionScrollEffect([{"speed":[0,-2.6],"in":[-Infinity,2396.5]},{"speed":[0,0],"in":[2396.5,Infinity]}]);/* scroll effect */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$('#bp_1366').one('muse_this_bp_activate', function(){
+$('#u14664-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1075]},{"speed":[0,-0.1],"in":[1075,Infinity]}], $(this)); /* scroll effect */
+$('#u14674-4').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,-0.1],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u18651-13').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,2300]},{"speed":[0,0],"in":[2300,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$('#bp_infinity').one('muse_this_bp_activate', function(){
+$('#u14664-4').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,1075]},{"speed":[0,-0.1],"in":[1075,Infinity]}], $(this)); /* scroll effect */
+$('#u14674-4').registerPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,0]},{"speed":[0,-0.1],"in":[0,Infinity]}], $(this)); /* scroll effect */
+$('#u18651-13').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,2300]},{"speed":[0,0],"in":[2300,Infinity]}], $(this)); /* scroll effect */
+});/* scroll effects for one breakpoint */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
 </script>
   <!-- RequireJS script -->
-  <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=310584261" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=4286661555" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
    </body>
 </html>
